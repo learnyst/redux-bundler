@@ -57,8 +57,5 @@
       "URL",
       "history"
     ]
-  },
-  "dependencies": {
-    "bcrypt": "^3.0.6"
   }
 }
